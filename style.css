@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Header */
+.stApp h1 {
+
+    color: #ffc107; /* Yellow color */
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center; /* Center align the heading */
+    border: 2px solid white; /* White border */
+    padding: 20px; /* Padding */
+    border-radius: 10px; /* Rounded corners */
+    margin-bottom: 20px; /* Add some space below the heading */
+}
+
+/* Sidebar */
+.stSidebar {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Sliders */
+.stSlider label, .stSlider input {
+    width: 100%;
+}
+
+/* Player Data Section */
+.stDataFrame {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Player Salary Section */
+.stText h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+/* Center the image */
+.centered-image {
+     display: block;
+     margin-left: auto;
+    margin-right: auto;
+
+}

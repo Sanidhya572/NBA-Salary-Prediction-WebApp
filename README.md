@@ -1,1 +1,3 @@
-# NBA-Salary-Prediction-WebApp
+# simple_streamlit_app
+
+![](Capture.PNG)
